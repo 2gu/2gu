@@ -27,7 +27,7 @@ h1{
         background-color: linae;
         background-clip: text;
         color: rgba(109, 87, 233, 0.787);
-        transition: .5s cubic-bezier(0.165, 0.84, 0.44, 1);
+        transition: .25s cubic-bezier(0.165, 0.84, 0.44, 1);
         font-weight: 200;
         transform: scale(3);
         border-radius: 10%;
